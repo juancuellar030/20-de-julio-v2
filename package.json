@@ -1,0 +1,18 @@
+{
+  "name": "colombia-20-de-julio-slideshow",
+  "version": "1.0.0",
+  "description": "Classroom slideshow for Colombia Independence Day (20 de julio)",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^6.2.0"
+  },
+  "dependencies": {
+    "canvas-confetti": "^1.9.3",
+    "gsap": "^3.15.0"
+  }
+}
